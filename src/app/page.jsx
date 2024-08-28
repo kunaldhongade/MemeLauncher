@@ -13,7 +13,7 @@ const Home = () => {
           <WavyBackground>
             <div className="flex h-full items-center">
               <div className="max-w-3xl mx-auto text-center text-white">
-                <h1 className="text-7xl mb-3">Core Launcher</h1>
+                <h1 className="text-7xl mb-3">Meme Launcher</h1>
                 <p className="mb-3">
                   Meme Launcher simplifies ERC20 token creation on open campus codex EDU chain,
                   offering customizable tokens and a DeFi that reducing costs and technical barriers.
