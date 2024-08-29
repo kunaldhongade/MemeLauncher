@@ -1,6 +1,6 @@
 # MEME Launcher : Meme Token Generator and Liquidity Pool Creator
 
-[<img src="https://pbs.twimg.com/media/GUi8XYpWMAA8Lzd?format=jpg&name=large" width="100%">](https://www.youtube.com/watch?v=Te1_SB_eTJU)
+[<img src="https://raw.githubusercontent.com/kunaldhongade/MemeLauncher/main/public/images/CreateToken.png" width="100%">](https://www.youtube.com/watch?v=Te1_SB_eTJU)
 
 ## Overview
 
@@ -22,9 +22,9 @@ Welcome to the Meme Launcher opencampus.xyz Token Generator and Liquidity Pool C
 
 ## Contract Addresses
 
-- **Router Contact** : https://scan.test.btcs.network/address/0xd842784DBaE52b1cb237d89D70e58BdA19272a53#code
-- **Factory Contact** : https://scan.test.btcs.network/address/0xdf13b177d26F0bF78ca4bC315144903253B8f3B7
-- **Weth Contact** : https://scan.test.btcs.network/address/0xe4eFa38c357dAC678FB289b22DC317de0984cA9f
+- **Router Contact** : https://opencampus-codex.blockscout.com/address/0x779595e47E03Ab4aD6Fb245D7a572410bBe9ED6e?tab=contract
+- **Factory Contact** : https://opencampus-codex.blockscout.com/address/0x48AA8265298A4821CE6C044D4e72fdF707037fb0?tab=contract
+- **WEDU Contact** : https://opencampus-codex.blockscout.com/address/0x8c16A191c356DF572a8408f69895244436153A1D?tab=contract
 - **ERC20 Contact** : https://opencampus-codex.blockscout.com/address/0x8757a2B084e221E2D7F829dD9b7480Ffd93fDF50
 - **Liquidity Contact** : https://opencampus-codex.blockscout.com/address/0x5EF1f0dbE8B2Fca72CA795659E8533FA62772AA9
 
