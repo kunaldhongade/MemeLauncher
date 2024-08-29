@@ -250,7 +250,7 @@ const page = () => {
         tempMaxWallet, //maxWallet pct //10000
         tempMaxTransaction, //maxTxPct //10000
         10, //minimumSwapPct 10 default
-        "0xd842784DBaE52b1cb237d89D70e58BdA19272a53", //pancakerouter address  0x1aFa5D7f89743219576Ef48a9826261bE6378a68
+        "0x779595e47E03Ab4aD6Fb245D7a572410bBe9ED6e", //pancakerouter address  0x1aFa5D7f89743219576Ef48a9826261bE6378a68
         feesValues[0],
         feesValues[1],
         feesValues[2], // mintTarget
@@ -258,7 +258,7 @@ const page = () => {
       bytecode = SecondByteCode.toString();
       deploy_contract = new ethers.ContractFactory(SecondABI, bytecode, Signer);
     } else {
-      toast.error("Divident Token is in under development !!!!!!!");
+      toast.error("Dividend Token is in under development !!!!!!!");
     }
     // Prepare arguments for the smart contract constructor
     try {
@@ -361,18 +361,7 @@ const page = () => {
                           </div>
                         </div>
                         <div className="relative">
-                          {/* <div className="form-control">
-                        <label className="label justify-start gap-2 cursor-pointer">
-                          <input
-                            type="radio"
-                            name="tokenType"
-                            className="radio radio-sm border-black checked:border-[#9333ea] dark:border-white dark:checked:border-[#9333ea] checked:bg-[#9333ea] transition-all duration-300"
-                            checked={tokenType === "BabyToken"}
-                            onChange={() => setTokenType("BabyToken")}
-                          />
-                          <span className="text-sm">Divident Token</span>
-                        </label>
-                      </div> */}
+
                         </div>
                       </div>
                     </div>
